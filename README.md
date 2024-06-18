@@ -29,7 +29,7 @@ Get ready for a thrilling challenge with Save The Cake! Your mission is to prote
 Get ready to dive into the game! Grab your keyboard and take aim as you shoot at the rolling mud ball. Your mission: stop the ball in its tracks before it demolishes the cake.
 
 ## License
-This project is licensed under the MIT License, making it free to use and modify. See the [LICENSE](https://github.com/seddonnguyen/SaveTheCake/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License, making it free to use and modify. See the [LICENSE](https://github.com/seddonnguyen/SaveTheCake/blob/master/LICENSE) file for details.
 
 ## Contact
 Your engagement is important to me. Please feel free to reach out with any questions or feedback by opening an issue on the repository. Your input is highly valued.
